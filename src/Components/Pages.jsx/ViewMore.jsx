@@ -8,7 +8,7 @@ const ViewMore = () => {
     let navigate=useNavigate()
     let [data,setData]=useState([])
     let api=async()=>{
-        let response=await axios.get(`http://localhost:4000/products/${pid}`)
+        let response=await axios.get(`https://my-json-server-xn9g.onrender.com/products/${pid}`)
         setData(response.data)
     }
     useEffect(()=>{

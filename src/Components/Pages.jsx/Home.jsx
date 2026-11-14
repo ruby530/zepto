@@ -90,7 +90,7 @@ const Home = () => {
 
     let api = async () => {
         try {
-            let response = await axios.get(`https://my-json-server.onrender.com/products`)
+            let response = await axios.get(`https://my-json-server-xn9g.onrender.com/products`)
             setData(response.data)
             setFilter(response.data)
         } catch (error) {
@@ -110,12 +110,12 @@ const Home = () => {
     let addToCart = async (product) => {
         try {
             // Get existing cart data from JSON Server
-            let response = await axios.get(`http://localhost:4000/cart`)
+            let response = await axios.get(`https://my-json-server-xn9g.onrender.com/cart`)
             let cart = response.data
 
                 let { id, ...productDetails } = product
 
-                await axios.post(`http://localhost:4000/cart`, {
+                await axios.post(`https://my-json-server-xn9g.onrender.com/cart`, {
                     ...productDetails,
                     productId: id,
                     quantity: 1
