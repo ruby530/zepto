@@ -1,0 +1,355 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://carveyourcraving.com/wp-content/uploads/2021/06/chocolate-icecream-in-an-icecream-maker.jpg",
+      "old_price": 199,
+      "new_price": 149,
+      "description": "Rich, creamy chocolate with delicious cocoa flavor.",
+      "ml": "100g",
+      "category": "Chocolate",
+      "Details": "Rich and creamy chocolate ice cream.\nMade with delicious cocoa for a smooth taste.\nPerfect for satisfying your sweet cravings."
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38",
+      "old_price": 250,
+      "new_price": 199,
+      "description": "Pure natural honey with sweet and rich taste.",
+      "ml": "500g",
+      "category": "Grocery",
+      "Details": "Pure and natural honey with rich sweetness.\nCarefully collected for its delicious taste.\nPerfect for breakfast, drinks and desserts."
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4z-Jn4Zy5GEeYwj9Z0L09edS6sj6zxt5G6mjyGoynQ&s=10",
+      "old_price": 80,
+      "new_price": 55,
+      "description": "Freshly baked soft bread for tasty breakfasts.",
+      "ml": "400g",
+      "category": "Bakery",
+      "Details": "Freshly baked bread with a soft texture.\nDelicious taste makes every bite enjoyable.\nPerfect for sandwiches and daily breakfast."
+    },
+    {
+      "id": "4",
+      "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929",
+      "old_price": 180,
+      "new_price": 140,
+      "description": "Sweet strawberry jam perfect for bread and toast.",
+      "ml": "250g",
+      "category": "Grocery",
+      "Details": "Delicious strawberry jam with natural sweetness.\nSmooth texture and refreshing fruity flavor.\nPerfect for spreading on bread and toast."
+    },
+    {
+      "id": "5",
+      "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b",
+      "old_price": 120,
+      "new_price": 95,
+      "description": "Finely ground wheat flour for soft and tasty rotis.",
+      "ml": "1kg",
+      "category": "Grocery",
+      "Details": "Finely ground wheat flour for everyday cooking.\nHelps prepare soft and delicious homemade rotis.\nA useful ingredient for your daily meals."
+    },
+    {
+      "id": "6",
+      "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707",
+      "old_price": 299,
+      "new_price": 249,
+      "description": "Crunchy chocolate cookies with a delicious taste.",
+      "ml": "200g",
+      "category": "Chocolate",
+      "Details": "Crunchy cookies filled with chocolate flavor.\nEnjoy a delicious and satisfying sweet treat.\nPerfect for snacks and tea-time moments."
+    },
+    {
+      "id": "7",
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+      "old_price": 350,
+      "new_price": 299,
+      "description": "Powerful detergent for fresh and clean clothes.",
+      "ml": "1kg",
+      "category": "Cleaning",
+      "Details": "Powerful detergent for everyday laundry cleaning.\nHelps remove dirt and common stains from clothes.\nKeeps your laundry fresh and clean."
+    },
+    {
+      "id": "8",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5",
+      "old_price": 220,
+      "new_price": 180,
+      "description": "Quality cooking oil for everyday delicious meals.",
+      "ml": "1L",
+      "category": "Grocery",
+      "Details": "Quality cooking oil for everyday food preparation.\nSuitable for frying and regular home cooking.\nAdds convenience to your daily kitchen routine."
+    },
+    {
+      "id": "9",
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c",
+      "old_price": 499,
+      "new_price": 429,
+      "description": "Premium aromatic basmati rice for biryani and pulao.",
+      "ml": "5kg",
+      "category": "Grocery",
+      "Details": "Premium basmati rice with aromatic fragrance.\nFeatures long grains for delicious rice dishes.\nPerfect for biryani, pulao and special meals."
+    },
+    {
+      "id": "10",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150",
+      "old_price": 80,
+      "new_price": 65,
+      "description": "Fresh creamy milk rich in essential nutrients.",
+      "ml": "1L",
+      "category": "Dairy",
+      "Details": "Fresh and creamy milk for everyday use.\nEnjoy it with cereals, tea or coffee.\nA versatile dairy essential for your family."
+    },
+    {
+      "id": "11",
+      "image": "https://images.unsplash.com/photo-1571506165871-ee72a35bc9d4",
+      "old_price": 150,
+      "new_price": 120,
+      "description": "Refreshing orange juice with delicious fruity flavor.",
+      "ml": "1L",
+      "category": "Beverages",
+      "Details": "Refreshing orange juice with fruity sweetness.\nEnjoy its delicious citrus-inspired flavor.\nPerfect for breakfast and refreshing breaks."
+    },
+    {
+      "id": "12",
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35",
+      "old_price": 120,
+      "new_price": 90,
+      "description": "Crispy and tasty biscuits perfect for tea-time.",
+      "ml": "300g",
+      "category": "Bakery",
+      "Details": "Crispy biscuits with a delicious baked taste.\nEnjoy a crunchy bite with every serving.\nPerfect for tea-time and evening snacks."
+    },
+    {
+      "id": "13",
+      "image": "https://images.unsplash.com/photo-1587049352851-8d4e89133924",
+      "old_price": 199,
+      "new_price": 159,
+      "description": "Delicious mixed fruit jam with natural sweetness.",
+      "ml": "500g",
+      "category": "Grocery",
+      "Details": "Mixed fruit jam with a delightful sweet taste.\nEnjoy a smooth spread with fruity flavor.\nPerfect for bread, toast and breakfast meals."
+    },
+    {
+      "id": "14",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e",
+      "old_price": 100,
+      "new_price": 75,
+      "description": "Fresh seasonal vegetables for healthy everyday meals.",
+      "ml": "1kg",
+      "category": "Vegetables",
+      "Details": "Fresh seasonal vegetables for daily cooking.\nAdd natural color and variety to your meals.\nPerfect for salads, curries and healthy dishes."
+    },
+    {
+      "id": "15",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150",
+      "old_price": 60,
+      "new_price": 50,
+      "description": "Fresh and creamy curd for everyday meals.",
+      "ml": "500g",
+      "category": "Dairy",
+      "Details": "Fresh and creamy curd with a smooth texture.\nEnjoy its delicious taste with everyday meals.\nPerfect for raita, snacks and side dishes."
+    },
+    {
+      "id": "16",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5",
+      "old_price": 180,
+      "new_price": 149,
+      "description": "Crunchy potato chips with delicious seasoning.",
+      "ml": "150g",
+      "category": "Snacks",
+      "Details": "Crispy potato chips with tasty seasoning.\nEnjoy a crunchy and flavorful snack anytime.\nPerfect for parties and evening cravings."
+    },
+    {
+      "id": "17",
+      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b",
+      "old_price": 250,
+      "new_price": 199,
+      "description": "Sweet chocolate candies with rich cocoa flavor.",
+      "ml": "200g",
+      "category": "Chocolate",
+      "Details": "Sweet chocolate candies with rich cocoa flavor.\nEnjoy their delightful taste in every bite.\nPerfect for sharing and satisfying sweet cravings."
+    },
+    {
+      "id": "18",
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+      "old_price": 350,
+      "new_price": 299,
+      "description": "Soft chocolate cake for special celebrations.",
+      "ml": "500g",
+      "category": "Bakery",
+      "Details": "Soft and delicious cake with chocolate flavor.\nEnjoy its rich taste and delightful texture.\nPerfect for birthdays and special celebrations."
+    },
+    {
+      "id": "19",
+      "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2",
+      "old_price": 199,
+      "new_price": 159,
+      "description": "Effective toilet cleaner for a fresh bathroom.",
+      "ml": "500ml",
+      "category": "Cleaning",
+      "Details": "Effective cleaner for everyday toilet maintenance.\nHelps remove common stains and bathroom dirt.\nKeeps your bathroom fresh and hygienic."
+    },
+    {
+      "id": "20",
+      "image": "https://images.unsplash.com/photo-1585421514738-01798e348b17",
+      "old_price": 299,
+      "new_price": 249,
+      "description": "Powerful dishwashing liquid for clean and shiny utensils.",
+      "ml": "750ml",
+      "category": "Cleaning",
+      "Details": "Powerful dishwashing liquid for daily cleaning.\nHelps remove grease and food residue from utensils.\nLeaves your dishes clean and shiny."
+    },
+    {
+      "id": "21",
+      "image": "https://i0.wp.com/bakabee.com/wp-content/uploads/2026/08/Milk-Bread-Loaf.jpg?fit=1024%2C1024&ssl=1",
+      "old_price": 100,
+      "new_price": 80,
+      "description": "Soft and fresh brown bread for healthy breakfasts.",
+      "ml": "400g",
+      "category": "Bakery",
+      "Details": "Fresh brown bread with a soft texture.\nA tasty option for your everyday breakfast.\nPerfect for sandwiches and delicious toast."
+    },
+    {
+      "id": "22",
+      "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b",
+      "old_price": 180,
+      "new_price": 149,
+      "description": "Nutritious multigrain atta for healthy homemade rotis.",
+      "ml": "2kg",
+      "category": "Grocery",
+      "Details": "Multigrain atta made for everyday cooking.\nSuitable for preparing soft homemade rotis.\nA convenient choice for daily family meals."
+    },
+    {
+      "id": "23",
+      "image": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd",
+      "old_price": 250,
+      "new_price": 199,
+      "description": "Creamy and delicious ice cream for dessert lovers.",
+      "ml": "500ml",
+      "category": "Dairy",
+      "Details": "Creamy ice cream with a delicious taste.\nEnjoy a smooth and refreshing dessert experience.\nPerfect for celebrations and sweet cravings."
+    },
+    {
+      "id": "24",
+      "image": "https://images.unsplash.com/photo-1580913428735-bd3c269d6a82",
+      "old_price": 90,
+      "new_price": 70,
+      "description": "Refreshing green tea with a pleasant aroma.",
+      "ml": "100g",
+      "category": "Beverages",
+      "Details": "Refreshing green tea with a pleasant aroma.\nEnjoy its light and soothing flavor anytime.\nPerfect for relaxing during your daily routine."
+    },
+    {
+      "id": "25",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150",
+      "old_price": 120,
+      "new_price": 99,
+      "description": "Fresh creamy butter with rich and smooth flavor.",
+      "ml": "200g",
+      "category": "Dairy",
+      "Details": "Fresh creamy butter with a smooth texture.\nAdds a rich and delicious taste to food.\nPerfect for toast, baking and everyday cooking."
+    },
+    {
+      "id": "26",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5",
+      "old_price": 180,
+      "new_price": 150,
+      "description": "Light sunflower oil for everyday cooking.",
+      "ml": "1L",
+      "category": "Grocery",
+      "Details": "Light sunflower oil for everyday cooking.\nSuitable for frying and preparing various dishes.\nA convenient essential for your kitchen."
+    },
+    {
+      "id": "27",
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35",
+      "old_price": 150,
+      "new_price": 120,
+      "description": "Crunchy cream biscuits with a sweet filling.",
+      "ml": "250g",
+      "category": "Snacks",
+      "Details": "Crunchy biscuits with a delicious cream filling.\nEnjoy their sweet taste and crispy texture.\nPerfect for tea-time and quick snack breaks."
+    },
+    {
+      "id": "28",
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c",
+      "old_price": 350,
+      "new_price": 299,
+      "description": "Premium wheat grains for fresh homemade flour.",
+      "ml": "5kg",
+      "category": "Grocery",
+      "Details": "Premium quality wheat grains for daily use.\nSuitable for grinding into fresh homemade flour.\nA useful staple for your everyday kitchen."
+    },
+    {
+      "id": "29",
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+      "old_price": 450,
+      "new_price": 399,
+      "description": "Effective liquid detergent for fresh and clean laundry.",
+      "ml": "2L",
+      "category": "Cleaning",
+      "Details": "Effective liquid detergent for laundry cleaning.\nHelps remove dirt and everyday clothing stains.\nLeaves your clothes feeling fresh and clean."
+    },
+    {
+      "id": "30",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZ52s4jqgq2jGAcbko1Rccpn7_i0ze3OC0ewdadJQoJu6jMkkJadN9V1c&s=10",
+      "old_price": 299,
+      "new_price": 249,
+      "description": "Rich dark chocolate with intense cocoa flavor.",
+      "ml": "250g",
+      "category": "Chocolate",
+      "Details": "Rich dark chocolate with an intense cocoa taste.\nEnjoy its smooth texture and delicious flavor.\nPerfect for chocolate lovers and dessert treats."
+    }
+  ],
+  "cart": [
+    {
+      "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929",
+      "old_price": 180,
+      "new_price": 140,
+      "description": "Sweet strawberry jam perfect for bread and toast.",
+      "ml": "250g",
+      "category": "Grocery",
+      "Details": "Delicious strawberry jam with natural sweetness.\nSmooth texture and refreshing fruity flavor.\nPerfect for spreading on bread and toast.",
+      "productId": "4",
+      "quantity": 2,
+      "id": "JOulVaV6bbc"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b",
+      "old_price": 120,
+      "new_price": 95,
+      "description": "Finely ground wheat flour for soft and tasty rotis.",
+      "ml": "1kg",
+      "category": "Grocery",
+      "Details": "Finely ground wheat flour for everyday cooking.\nHelps prepare soft and delicious homemade rotis.\nA useful ingredient for your daily meals.",
+      "productId": "5",
+      "quantity": 1,
+      "id": "2d-PkAyrxPA"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150",
+      "old_price": 60,
+      "new_price": 50,
+      "description": "Fresh and creamy curd for everyday meals.",
+      "ml": "500g",
+      "category": "Dairy",
+      "Details": "Fresh and creamy curd with a smooth texture.\nEnjoy its delicious taste with everyday meals.\nPerfect for raita, snacks and side dishes.",
+      "productId": "15",
+      "quantity": 1,
+      "id": "Jy1LMvFLdvI"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZ52s4jqgq2jGAcbko1Rccpn7_i0ze3OC0ewdadJQoJu6jMkkJadN9V1c&s=10",
+      "old_price": 299,
+      "new_price": 249,
+      "description": "Rich dark chocolate with intense cocoa flavor.",
+      "ml": "250g",
+      "category": "Chocolate",
+      "Details": "Rich dark chocolate with an intense cocoa taste.\nEnjoy its smooth texture and delicious flavor.\nPerfect for chocolate lovers and dessert treats.",
+      "productId": "30",
+      "quantity": 1,
+      "id": "6y1YzFZp9ms"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
