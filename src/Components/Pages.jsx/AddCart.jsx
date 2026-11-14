@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom'
 const AddCart = () => {
   let [cart,setCart]=useState([])
     let products=async()=>{
-      let resp= await axios.get(`http://localhost:4000/cart`)
+      let resp= await axios.get(`https://my-json-server-xn9g.onrender.com/cart`)
       setCart(resp.data)
     }
     useEffect(()=>{
