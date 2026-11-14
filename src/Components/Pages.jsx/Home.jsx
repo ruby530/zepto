@@ -90,7 +90,7 @@ const Home = () => {
 
     let api = async () => {
         try {
-            let response = await axios.get(`http://localhost:4000/products`)
+            let response = await axios.get(`https://my-json-server.onrender.com/products`)
             setData(response.data)
             setFilter(response.data)
         } catch (error) {
